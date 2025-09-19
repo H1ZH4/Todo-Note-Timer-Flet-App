@@ -20,3 +20,7 @@ Background thread for accurate time tracking
 Perfect for productivity sessions or pomodoro technique
 
 📓 Notes System Create multiple notes with titles and content 
+
+🧑‍💻 Developed By:
+
+Hizha Karimnezhad
